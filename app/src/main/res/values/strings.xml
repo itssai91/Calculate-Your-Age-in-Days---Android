@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age To Days Calculator</string>
+    <string name="select_date">ENTER YOUR DOB</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="in_days">IN DAYS</string>
+    <string name="selected_date">DOB SELECTED</string>
+    <string name="in_days_till_current_date">DAYS TILL CURRENT DATE</string>
+</resources>
