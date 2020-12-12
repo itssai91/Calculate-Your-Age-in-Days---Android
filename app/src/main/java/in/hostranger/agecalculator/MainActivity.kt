@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
 
             val diferenceTime = curentDateToMinutes - usrSelectedDateToMinuite
 
-            val days =  (diferenceTime / (60*24));
+            val days =  diferenceTime / (60*24);
 
             showResult.text = days.toString()
 
